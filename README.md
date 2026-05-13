@@ -1,6 +1,6 @@
 # Hi, I'm Cyrus Auyeung 👋
 
-## About Me / 关于我
+## About Me
 
 -  HKUST(GZ) 25UG
 -  Currently learning, exploring, and growing
