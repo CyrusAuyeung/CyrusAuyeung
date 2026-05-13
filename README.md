@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Cyrus Auyeung 👋
 
-<!--
-**CyrusAuyeung/CyrusAuyeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是 Cyrus Auyeung。
 
-Here are some ideas to get you started:
+I'm a 2025 undergraduate student at HKUST(GZ). I am building a strong academic foundation, exploring my interests step by step, and learning how to turn ideas into meaningful work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我是香港科技大学（广州）2025 级本科生。目前我正在打好学术基础，逐步探索自己的兴趣方向，也在学习如何把想法转化为真正有价值的作品。
+
+## About Me / 关于我
+
+- 🎓 HKUST(GZ) 25UG
+- 🌱 Currently learning, exploring, and growing as an undergraduate student
+- 📫 Email: houyang667@connect.hkust-gz.edu.cn
+
+## GitHub / 个人主页
+
+This profile is a small space for recording my learning journey and future projects.
+
+这里会用来记录我的学习过程，以及未来逐步完善的项目与作品。
